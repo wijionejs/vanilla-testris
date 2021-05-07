@@ -1,0 +1,12 @@
+body {
+    background-color: #333333;
+    color: #ffffff;
+    text-align: center;
+}
+
+h1 {
+    margin: 50px 0 20px;
+    font-size: 42px;
+    font-family: "Comic Sans MS", sans-serif;
+    letter-spacing: 0.1em;
+}
