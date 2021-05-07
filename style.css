@@ -10,3 +10,7 @@ h1 {
     font-family: "Comic Sans MS", sans-serif;
     letter-spacing: 0.1em;
 }
+
+canvas {
+    border: 1px solid #ffffff;
+}
