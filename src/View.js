@@ -54,6 +54,8 @@ export default class View {
   }
 
   renderEndScreen({ score }) {
+    this.clearCanvas();
+    
     this.context.textAlign = 'center';
     this.context.textBaseline = 'middle';
     this.context.fillStyle = 'white';
